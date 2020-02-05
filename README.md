@@ -32,8 +32,8 @@
 
 | Category    | Subcategories                                                                                                           |
 |-------------|-------------------------------------------------------------------------------------------------------------------------|
-| concentrate | cured extract, shatter, tincture, resin, budder, hash, solventless, distillate, wax, kief, live extract, oil, cartridge |
-| edible      | snack, drink, cooking, capsule, tincture, candy, chocolate, baked                                                       |
+| concentrate | syringe, crumble, crystalline, cured extract, shatter, tincture, resin, budder, hash, solventless, distillate, wax, kief, live extract, oil, cartridge |
+| edible      | snack, drink, cooking, capsule, tincture, candy, chocolate, baked                                                      |
 | flower      | indica, sativa, clone, other, seeds, hybrid, caviar                                                                     |
 | merchandise | vape, glass, accessory, clothing, misc                                                                                  |
 | topical     | bath, ointment, oil, lotion, patch, salve, balm   
