@@ -16,7 +16,7 @@
 | name        | string                |                                                   |
 | strain      | string                | ID of matching strain if that exists              |
 | description | string                |                                                   |
-| brandID     | string                | ID of top level brand                                              |
+| brand_id    | string                | ID of top level brand                                              |
 | subcategory | string                | See Category Table                                |
 | category    | string                | concentrate, edible, flower, merchandise, topical |
 | id          | string                | UUID                                              |
@@ -37,7 +37,7 @@
 | type      | string              | unit, loose, shake, prepack, preroll        |
 | potency   | Object compounds and mg| {thc: 100, cbd: 20, cbn: 4}              |
 | count     | number              | Quantity in package                         |
-| UOM       | string              | ct, oz, ml, g                               |
+| uom       | string              | ct, oz, ml, g                               |
 | States    | Array of strings    | Example: ["ca", "co", "or"] or ["all"]      |
 | Medical   | Bool                | Is it medical specific                      |
 | image     | string              | URL                                         |
