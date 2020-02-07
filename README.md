@@ -38,4 +38,4 @@
 | edible      | snack, drink, cooking, capsule, tincture, candy, chocolate, baked                                                      |
 | flower      | indica, sativa, clone, other, seeds, hybrid, caviar                                                                     |
 | merchandise | vape, glass, accessory, clothing, misc                                                                                  |
-| topical     | bath, ointment, oil, lotion, patch, salve, balm   
+| topical     | bath, ointment, oil, lotion, patch, salve, balm, intimate   
