@@ -34,7 +34,7 @@
 
 | Category    | Subcategories                                                                                                           |
 |-------------|-------------------------------------------------------------------------------------------------------------------------|
-| concentrate | syringe, crumble, crystalline, cured extract, shatter, tincture, resin, budder, hash, solventless, distillate, wax, kief, live extract, oil, cartridge |
+| concentrate | syringe, crumble, crystalline, cured extract, shatter, tincture, resin, budder, hash, solventless, distillate, wax, kief, live extract, oil, cartridge, diamonds |
 | edible      | snack, drink, cooking, capsule, tincture, candy, chocolate, baked                                                      |
 | flower      | indica, sativa, clone, other, seeds, hybrid, caviar                                                                     |
 | merchandise | vape, glass, accessory, clothing, misc                                                                                  |
