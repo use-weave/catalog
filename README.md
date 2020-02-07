@@ -1,5 +1,14 @@
 # catalog
 
+##### Weave Brand
+
+
+| Field       | Type                  | Description                                       |
+|-------------|-----------------------|---------------------------------------------------|
+| id          | string                |                                                   |
+| name        | string                |                                                   |
+| logo        | string               | URL      |
+
 ##### Weave Product
 
 | Field       | Type                  | Description                                       |
@@ -7,7 +16,7 @@
 | name        | string                |                                                   |
 | strain      | string                | ID of matching strain if that exists              |
 | description | string                |                                                   |
-| brand       | string                |                                                   |
+| brandID     | string                | ID of top level brand                                              |
 | subcategory | string                | See Category Table                                |
 | category    | string                | concentrate, edible, flower, merchandise, topical |
 | id          | string                | UUID                                              |
