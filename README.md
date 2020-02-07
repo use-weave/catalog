@@ -23,7 +23,7 @@
 | name      | string              |                                             |
 | price     | float               | Base retail price                           |
 | cpc       | string              | Weave cannabis product code                 |
-| type      | string              | unit, loose, shake, prepack                 |
+| type      | string              | unit, loose, shake, prepack, preroll        |
 | potency   | Object compounds and mg| {thc: 100, cbd: 20, cbn: 4}              |
 | count     | number              | Quantity in package                         |
 | UOM       | string              | ct, oz, ml, g                               |
