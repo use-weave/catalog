@@ -27,6 +27,8 @@
 | potency   | Object compounds and mg| {thc: 100, cbd: 20, cbn: 4}              |
 | count     | number              | Quantity in package                         |
 | UOM       | string              | ct, oz, ml, g                               |
+| States    | Array of strings    | example: ["CA", "CO", "OR"]                 |
+| Medical   | Bool                | Is it medical specific                      |
 
 ##### Category Structure
 
