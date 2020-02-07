@@ -15,6 +15,8 @@
 | variants    | array of Weave Variant|                                                   |
 | experience  | string                | focus, unwind, sleep, energize etc                |
 | effects     | Array of strings      | Sleepy, hungry, pain relief, happy, relaxed       |
+| flavor      | dropdown of strings   | Example: ["pine", "lemon", "chocolate"]           |
+| image       | string                | URL                                               |
 
 ##### Weave Variant
 
@@ -27,8 +29,9 @@
 | potency   | Object compounds and mg| {thc: 100, cbd: 20, cbn: 4}              |
 | count     | number              | Quantity in package                         |
 | UOM       | string              | ct, oz, ml, g                               |
-| States    | Array of strings    | example: ["ca", "co", "or"] or ["all"]      |
+| States    | Array of strings    | Example: ["ca", "co", "or"] or ["all"]      |
 | Medical   | Bool                | Is it medical specific                      |
+| image     | string              | URL                                         |
 
 ##### Category Structure
 
